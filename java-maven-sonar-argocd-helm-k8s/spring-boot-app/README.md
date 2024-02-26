@@ -6,12 +6,18 @@ at the root directory of the repository.
 This is a MVC architecture based application where controller returns a page with title and message attributes to the view.
 
 ### Raj V Begin
-# Install docker hub desktop using 
-# https://www.docker.com/products/docker-desktop/
-# after successful 
-## Install Maven and Docker
-brew install maven -- I heard that maven comes with docker
+Install docker hub desktop using 
+https://www.docker.com/products/docker-desktop/
+after successful installation
+Install Maven and Docker
+
+```
+# maven usually comes with docker. run the mvn -version to make sure
+mvn - version
+brew install maven
+# The below docker is only required if  docker hub has not been installed using the above docker url
 # brew install docker -- Optional
+```
 ### Raj V End
 
 
