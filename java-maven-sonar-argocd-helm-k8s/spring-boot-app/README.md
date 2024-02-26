@@ -5,6 +5,16 @@ at the root directory of the repository.
 
 This is a MVC architecture based application where controller returns a page with title and message attributes to the view.
 
+### Raj V Begin
+# Install docker hub desktop using 
+# https://www.docker.com/products/docker-desktop/
+# after successful 
+## Install Maven and Docker
+brew install maven -- I heard that maven comes with docker
+# brew install docker -- Optional
+### Raj V End
+
+
 ## Execute the application locally and access it using your browser
 
 Checkout the repo and move to the directory
